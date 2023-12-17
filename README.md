@@ -1,0 +1,1 @@
+Projeto iniciado com o intuito de aprender a usar o framework Django
